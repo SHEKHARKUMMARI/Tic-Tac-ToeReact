@@ -2,7 +2,9 @@ body {
   font: 14px "Century Gothic", Futura, sans-serif;
   margin: 20px;
 }
-
+.tc {
+  text-align: center;
+}
 ol,
 ul {
   padding-left: 30px;
